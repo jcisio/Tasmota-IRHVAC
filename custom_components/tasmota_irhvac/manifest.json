@@ -8,6 +8,7 @@
     "mqtt",
     "sensor"
   ],
+  "version": "2021.1.25",
   "codeowners": [
     "@hristo-atanasov"
   ]
